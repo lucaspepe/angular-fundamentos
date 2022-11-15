@@ -1,0 +1,9 @@
+{
+  "animals": [
+    { "id": 1, "name": "Caramelo", "type": "Cachorro", "age": 10 },
+    { "id": 2, "name": "Brida", "type": "Gato", "age": 3 },
+    { "id": 3, "name": "Pamonha", "type": "Cachorro", "age": 5 },
+    { "id": 5, "name": "Alazão", "type": "Cavalo", "age": 4 },
+    { "id": 5, "name": "Fly", "type": "Pássaro", "age": 3 }
+  ]
+}
